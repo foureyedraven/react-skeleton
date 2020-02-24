@@ -7,3 +7,5 @@ pre-configured with helpful packages like
 * lodash, 
 * classnames, and 
 * redux
+
+*To use*: clone or download, remove git references in package.json and reinitialize git in the project with `git init`.
