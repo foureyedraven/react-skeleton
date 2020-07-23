@@ -1,5 +1,5 @@
 # react skeleton
-easy-start for a new react project. 
+super basic react project built from scratch. 
 
 pre-configured with helpful packages like
 * babel, 
